@@ -1,13 +1,17 @@
 {
 	"name": "@shompys/utils",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"type": "module",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
 	"sideEffects": false,
-	"files": ["dist"],
+	"files": [
+		"dist"
+	],
 	"release": {
-		"branches": ["main"]
+		"branches": [
+			"main"
+		]
 	},
 	"publishConfig": {
 		"@shompys:registry": "https://npm.pkg.github.com"

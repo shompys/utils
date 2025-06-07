@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/shompys/utils/compare/v0.2.0...v0.3.0) (2025-06-07)
+
+
+### Features 🔥
+
+* add linter biome ([bb79e87](https://github.com/shompys/utils/commit/bb79e878e60e987145437278b1e70be9e16716d0))
+
 ## [0.2.0](https://github.com/shompys/utils/compare/v0.1.0...v0.2.0) (2025-06-07)
 
 
