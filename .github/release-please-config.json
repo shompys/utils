@@ -1,0 +1,51 @@
+{
+	"packages": {
+		".": {
+			"release-type": "node",
+			"changelog-path": "CHANGELOG.md",
+			"package-name": false,
+			"include-v-in-tag": true,
+			"tag-separator": "@",
+			"include-component-in-tag": true,
+			"changelog-sections": [
+				{
+					"type": "feat!",
+					"section": "Breaking Features 🔥"
+				},
+				{
+					"type": "feat",
+					"section": "Features 🔥"
+				},
+				{
+					"type": "fix",
+					"section": "Bug Fixes 🐛"
+				},
+				{
+					"type": "refactor",
+					"section": "Refactor 🛠️"
+				},
+				{
+					"type": "ref",
+					"section": "Refactor 🛠️"
+				},
+				{
+					"type": "chore",
+					"section": "Chore ⚙️"
+				},
+				{
+					"type": "test",
+					"section": "Test 🧪"
+				},
+				{
+					"type": "perf",
+					"section": "Performance ⏲️"
+				},
+				{
+					"type": "build",
+					"section": "Build 🏗️"
+				}
+			]
+		}
+	},
+	"$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
