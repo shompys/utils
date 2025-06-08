@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/shompys/utils/compare/v0.3.0...v0.3.1) (2025-06-08)
+
+
+### Bug Fixes 🐛
+
+* zaraza ([74a62ab](https://github.com/shompys/utils/commit/74a62abec64dc4ebe3f8a133c9ff299f51a47c74))
+
 ## [0.3.0](https://github.com/shompys/utils/compare/v0.2.0...v0.3.0) (2025-06-07)
 
 
