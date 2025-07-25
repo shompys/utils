@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/shompys/utils/compare/v0.3.1...v0.4.0) (2025-07-25)
+
+
+### Features 🔥
+
+* util sortBy added ([5fc316f](https://github.com/shompys/utils/commit/5fc316f226c527df1f77323cc80b60292c82b8ae))
+
 ## [0.3.1](https://github.com/shompys/utils/compare/v0.3.0...v0.3.1) (2025-06-08)
 
 
