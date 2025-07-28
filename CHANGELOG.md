@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/shompys/utils/compare/v0.4.0...v0.4.1) (2025-07-28)
+
+
+### Bug Fixes 🐛
+
+* sortBy was fixed ([fc46ce1](https://github.com/shompys/utils/commit/fc46ce11354a2a1ad2757e0c9626a83b50eb42d9))
+
 ## [0.4.0](https://github.com/shompys/utils/compare/v0.3.1...v0.4.0) (2025-07-25)
 
 
